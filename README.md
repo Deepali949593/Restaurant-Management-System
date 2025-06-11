@@ -2,7 +2,7 @@
 
 This project is a fully developed Restaurant Management System website that provides an all-in-one solution for managing restaurant operations. The website features an intuitive interface for customers to browse menus, place orders, make reservations, and leave feedback. On the admin side, restaurant managers can efficiently manage inventory, staff, and view sales analytics through a dedicated dashboard. A secure payment gateway has been integrated to ensure smooth transactions, along with an analytics panel for performance insights. By combining these functionalities, the system enhances operational efficiency and delivers a seamless dining experience for users.
 
-![Home Page](./image/image(1).jpg)
+![Home Page](./image/image.jpg)
 
 ## Features
 ### Customer Side
