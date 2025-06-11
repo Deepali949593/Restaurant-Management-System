@@ -1,0 +1,41 @@
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+/vendor/
+/node_modules/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Cache and temporary files
+*.tmp
+*.temp
+*.cache
+/temp/
+/tmp/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Configuration files that may contain sensitive information
+config.php
+
+# Shortcut files
+*.lnk 
