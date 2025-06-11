@@ -1,9 +1,9 @@
-# Restaurant Management System
+<h1> Restaurant Management System🍴 </h1>
 
-A comprehensive restaurant management system built with PHP that includes both customer-facing and admin interfaces.
+This project is a fully developed Restaurant Management System website that provides an all-in-one solution for managing restaurant operations. The website features an intuitive interface for customers to browse menus, place orders, make reservations, and leave feedback. On the admin side, restaurant managers can efficiently manage inventory, staff, and view sales analytics through a dedicated dashboard. A secure payment gateway has been integrated to ensure smooth transactions, along with an analytics panel for performance insights. By combining these functionalities, the system enhances operational efficiency and delivers a seamless dining experience for users.
+
 
 ## Features
-
 ### Customer Side
 - Interactive menu display with categorized items
 - User authentication and profile management
